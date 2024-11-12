@@ -2,3 +2,5 @@
 first line of text
 Second line of text
 Third line of text - now we are ready to do version control
+
+This is the text from the github remote
